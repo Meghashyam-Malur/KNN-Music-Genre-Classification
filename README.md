@@ -31,6 +31,8 @@ research for music genre recognition (MGR). The files were collected in 2000-200
 variety of sources including personal CDs, radio, and microphone recordings, in order to
 represent a variety of recording conditions.
 
+link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
 # Flowchart:
 ![image](https://github.com/Meghashyam-Malur/KNN-Music-Genre-Classification/blob/04c60f09e4f8d248dca29459c3cacea9113bbd05/images/AI%20hons%20Mini%20proj%20SEM%202%20Music%20Genre%20Classification%20Flowchart.png)
 
